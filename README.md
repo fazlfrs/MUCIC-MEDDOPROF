@@ -24,9 +24,9 @@ It is suggested to be uploaded in Google Colab or Kaggle notebook and use GPU to
 The code is Easy to be replicated just you need to run the cells one after another. (also check the path for datasets.)
 
 # Input / Output
-## converting dataset to conll representation , call the function in notebook as follow: 
+#converting dataset to conll representation , call the function in notebook as follow: 
 script: brat_to_conll(<Path to directory of dataset files>, <Path to generated conll file with .txt extension>, 'spacy', <intended language>)
-## Examples
+#Examples
 brat_to_conll('../input/oldmedoprof/experiments/test', './test.txt', 'spacy', 'es')
 brat_to_conll('../input/full-meddoprof-ds/meddoprof-training-set/task1', './train.txt', 'spacy', 'es')
 
