@@ -36,32 +36,11 @@ for Track 1 and 2 respectively that obtained second ranks at the MEDDOPROF-NER a
 
 # Reference
 Workshop overview paper:
-  @article{lima2021nlp,
-  title={NLP applied to occupational health: MEDDOPROF shared task at IberLEF 2021 on automatic recognition, classification and normalization of professions and occupations from medical texts},
-  author={Lima-L{\'o}pez, Salvador and Farr{\'e}-Maduell, Eul{\`a}lia and Miranda-Escalada, Antonio and Briv{\'a}-Iglesias, Vicent and Krallinger, Martin},
-  year={2021},
-  publisher={Sociedad Espa{\~n}ola para el Procesamiento del Lenguaje Natural}
-}
+  Lima-López, S., Farré-Maduell, E., Miranda-Escalada, A., Brivá-Iglesias, V., & Krallinger, M. (2021). NLP applied to occupational health: MEDDOPROF shared task at IberLEF 2021 on automatic recognition, classification and normalization of professions and occupations from medical texts.
   
  Description of models at ADOP FERT-Automatic Detection of Occupations and Profession in Medical Texts using Flair and BERT:
-  @inproceedings{DBLP:conf/sepln/BalouchzahiSS21,
-  author    = {Fazlourrahman Balouchzahi and
-               Grigori Sidorov and
-               Hosahalli Lakshmaiah Shashirekha},
-  title     = {{ADOP} FERT-Automatic Detection of Occupations and Profession in Medical
-               Texts using Flair and {BERT}},
-  booktitle = {Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021)
-               co-located with the Conference of the Spanish Society for Natural
-               Language Processing {(SEPLN} 2021), {XXXVII} International Conference
-               of the Spanish Society for Natural Language Processing., M{\'{a}}laga,
-               Spain, September, 2021},
-  series    = {{CEUR} Workshop Proceedings},
-  volume    = {2943},
-  pages     = {747--757},
-  publisher = {CEUR-WS.org},
-  year      = {2021},
-  url       = {http://ceur-ws.org/Vol-2943/meddoprof\_paper2.pdf}
-}
+  https://github.com/fazlfrs/MUCIC-MEDDOPROF,url       = {http://ceur-ws.org/Vol-2943/meddoprof\_paper2.pdf
+
 
 # Contact
 frs_b@yahoo.com
