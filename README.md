@@ -39,7 +39,7 @@ Workshop overview paper:
   Lima-López, S., Farré-Maduell, E., Miranda-Escalada, A., Brivá-Iglesias, V., & Krallinger, M. (2021). NLP applied to occupational health: MEDDOPROF shared task at IberLEF 2021 on automatic recognition, classification and normalization of professions and occupations from medical texts.
   
  Description of models at ADOP FERT-Automatic Detection of Occupations and Profession in Medical Texts using Flair and BERT:
-  https://github.com/fazlfrs/MUCIC-MEDDOPROF,url       = {http://ceur-ws.org/Vol-2943/meddoprof\_paper2.pdf
+   Balouchzahi, F., G. Sidorov, and H. L. Shashirekha. 2021. ADOP FERT-Automatic Detection of Occupations and Profession in Medical Texts using Flair and BERT. In Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2021), CEUR Workshop Proceedings., url= http://ceur-ws.org/Vol-2943/meddoprof\_paper2.pdf
 
 
 # Contact
